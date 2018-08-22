@@ -1,10 +1,10 @@
 # ========== Profile ========== #
 # avatar
-avatar: /avatar/Misaka.jpg
+avatar: /avatar/timg.jpg
 # author name
 author: KuriyamaMirai
 # signature
-signature: witness me
+signature: 兽人永不为奴，除非包吃包住
 # SNS (you can custom the order)
 social:
   email: lovef@outlook.com
@@ -39,9 +39,9 @@ about:
 # title of the site
 SEO_title: 
 # main title
-main_title: fi3ework's Studio.
+main_title: 芒果爆爆蛋去冰！
 # subtitle
-subtitle: it's better to burn out than to fade away
+subtitle: 兽人永不为奴，除非包吃包住
 # site haeder image
 site_header_image: '/intro/k-bg.jpg'
 # post haeder image
@@ -98,7 +98,7 @@ CNZZ_analytics:
 
 # ========== Others ========== #
 # favicon
-favicon: /assets/favicon.ico
+favicon: 
 # truncate length of abstracts in index page (the default is 300, there will be no abstruct if you input 0)
 truncate_length: 
 # enable toc
