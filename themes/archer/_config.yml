@@ -32,7 +32,7 @@ friends:
  # friendB: //www.google.com
  # friendC: 
 about:
-  enable: true
+  enable: false
   image: '/intro/about-bg.jpg'
 
 # ========== Site ========== #
