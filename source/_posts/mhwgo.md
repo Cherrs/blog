@@ -6,8 +6,8 @@ header_image: mhwgo/psb.jpg
 ---
 {% asset_img psb.jpg %}
 <!-- more -->
-{% asset_img psb1.jpg ['666'] %}
-{% asset_img psb2.jpg '我的猫强势入境' %}
-![](/mhwgo/psb3.jpg)
-![666](/mhwgo/psb4.jpg)
-![庆祝!](/mhwgo/psb5.jpg)
+{% asset_img psb1.jpg  %}
+{% asset_img psb2.jpg  %}
+{% asset_img psb3.jpg  %}
+{% asset_img psb4.jpg  %}
+{% asset_img psb5.jpg  %}
